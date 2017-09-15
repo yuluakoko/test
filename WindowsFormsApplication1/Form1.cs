@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("E12EE");
+            MessageBox.Show("E12hhEE");
             Close();
         }
     }
